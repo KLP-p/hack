@@ -30,7 +30,7 @@
 * `pkg install git`
 * `git clone https://github.com/KLP-p/hack`
 * `ls`
-* `cd Xteam`
+* `cd hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `bash setup.sh`
@@ -43,7 +43,7 @@
 * `sudo apt install git`
 * `git clone https://github.com/KLP-p/hack`
 * `ls`
-* `cd Xteam`
+* `cd hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash klp.sh`
